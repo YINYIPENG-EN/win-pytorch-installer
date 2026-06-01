@@ -9,6 +9,10 @@
 
 ## 安装步骤
 
+百度网盘：
+
+链接: https://pan.baidu.com/s/10juM86p0Qx-KeiSxO8BBww 提取码: yypn 
+
 下载百度网盘中的requirements.txt、pytorch至本地。
 
 这里我提供了一些torch离线安装包：pytorch 1.7.0-gpu-python3.7、pytorch 1.7.0-cpu-python3.7、pytorch 1.12.1-gpu-python3.8版。
